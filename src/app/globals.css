@@ -14,8 +14,28 @@
   }
 }
 
+.noise{
+  filter: contrast(150%) brightness(100%);
+  background-image: url(../../public/noise.svg);
+  
+
+}
 body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+@font-face {
+  font-family: 'bueno';
+  src: url('../../public/fonts/HUMANE-Typeface/OpenType-TT/Humane-Bold.ttf') format('truetype');
+}
+
+.Name{
+  font-size:25rem;
+  color:#000;
+  font-family: 'bueno';
+  font-weight: 700;
+  letter-spacing: 2px;  
+  -webkit-text-stroke: 1px #fdf7f0;
+  text-shadow: -2px 2px #fdf7f0, -6px 6px #fdf7f0, -10px 10px #fdf7f0;;
 }
