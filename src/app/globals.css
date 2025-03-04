@@ -15,7 +15,7 @@
 }
 
 .noise{
-  filter: contrast(150%) brightness(100%);
+  filter: contrast(200%) brightness(80%);
   background-image: url(../../public/noise.svg);
   
 
@@ -37,13 +37,18 @@ body {
   font-family: 'NeuePowerRegular';
   src: url('../../public/fonts/neue_power/NeuePowerTrial-Bold.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'NeuePowerBold';
+  src: url('../../public/fonts/neue_power/NeuePower-Ultra.ttf') format('truetype');
+}
+.applist{
+  font-family: 'NeuePowerBold';
+  font-weight: 800;
+}
 .Name{
   font-family: 'NeuePower';
 }
 
 .navlist{
   font-family: 'NeuePowerRegular';
-}
-.humane{
-  font-family: 'bueno';
 }

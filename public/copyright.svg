@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  id="Layer_1"
+  x="0px"
+  y="0px"
+  viewBox="0 0 64 64"
+  style="enable-background:new 0 0 64 64"
+  xml:space="preserve"
+  width="64px"
+  height="64px"
+>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+  <g
+    id="SVGRepo_tracerCarrier"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  ></g>
+  <g id="SVGRepo_iconCarrier">
+    <style type="text/css">
+      .st0 {
+        fill: #333333;
+      }
+    </style>
+    <g>
+      <path
+        class="st0"
+        d="M32,0C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32S49.7,0,32,0z M32,58C17.7,58,6,46.3,6,32S17.7,6,32,6 s26,11.7,26,26S46.3,58,32,58z"
+      ></path>
+      <path
+        class="st0"
+        d="M32,16c-8.8,0-16,7.2-16,16s7.2,16,16,16s16-7.2,16-16S40.8,16,32,16z M32,42c-5.5,0-10-4.5-10-10 s4.5-10,10-10s10,4.5,10,10S37.5,42,32,42z"
+      ></path>
+    </g>
+  </g>
+</svg>
